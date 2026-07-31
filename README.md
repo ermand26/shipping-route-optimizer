@@ -2,12 +2,12 @@
 
 A lightweight data engineering project that analyzes physical ocean trade routes by integrating macro commodity fuel inputs to discover the lowest-cost logistical transit paths.
 
-## 🚢 Core Analytical Features
+##  Core Analytical Features
 * **Live Market Indicators:** Dynamically handles live endpoints to model bunker fuel price variances.
 * **Multi-Route Matrix Modeling:** Runs continuous trade-off equations between distances, canal tolls, and temporal vessel hire costs.
 * **Automated Decision Engine:** Generates a structured DataFrame ranking routes from lowest to highest total operational cost.
 
-## 🛠️ Step-by-Step Installation Guide
+##  Step-by-Step Installation Guide
 
 Follow these simple commands inside your terminal to run the optimization framework:
 
