@@ -32,3 +32,5 @@ Follow these simple commands inside your terminal to run the optimization framew
    ```bash
    python optimizer.py
    ```
+
+   ![Freight Cost Breakdown](route_optimizer_chart.png)
